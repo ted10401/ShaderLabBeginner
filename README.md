@@ -1,3 +1,5 @@
 # ShaderLabBeginner
 
-<iframe src="https://docs.google.com/presentation/d/1TdTmBwzro3GMCTyZxLA9aebVgnD4TrOuXlqDF6R2TkM/embed?start=false&loop=false&delayms=5000" frameborder="0" width="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+![alt tag](https://github.com/ted10401/FieldOfView/blob/master/GithubResources/Outline.png)
+
+![alt tag](https://github.com/ted10401/FieldOfView/blob/master/GithubResources/VertexOffset.gif)
